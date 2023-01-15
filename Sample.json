@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Louis Chilton",
+            "title": "Jeremy Clarkson criticised for ‘exceptionally stupid’ tweet about heatwave",
+            "description": "Extreme weather conditions are hitting much of western Europe this week",
+            "url": "http://www.independent.co.uk/arts-entertainment/tv/news/heatwave-uk-jeremy-clarkson-france-b2125426.html",
+            "urlToImage": "https://static.independent.co.uk/2022/07/18/08/newFile-2.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-07-18T08:05:33Z",
+            "content": "Jeremy Clarkson has prompted a backlash online after posting a tweet about the extreme weather conditions facing the UK.\r\nThe UK and other parts of Europe are set to experience a heatwave this week, … [+1250 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "https://www.theguardian.com/profile/rachel-hall",
+            "title": "UK heatwave live: red weather warning in effect with temperatures forecast to exceed 40C",
+            "description": "Latest updates: Met Office issues red extreme heat warning for much of UK with mass disruption expect for schools, transport and other services",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vdWstbmV3cy9saXZlLzIwMjIvanVsLzE4L3VrLXdlYXRoZXItaGVhdHdhdmUtbWV0LW9mZmljZS13YXJuaW5nLWZvcmVjYXN0LXRlbXBlcmF0dXJlLWxvbmRvbi1zY2hvb2xzLWxhdGVzdC11cGRhdGVz0gEA?oc=5",
+            "urlToImage": "https://i.guim.co.uk/img/media/da99e3881d67045c5e35d71053a315194191b7eb/0_102_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1db41646412bf12ddb8f4f4cb72f398b",
+            "publishedAt": "2022-07-18T07:18:00+00:00",
+            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nJake Kelly, spokesman for Network Rail, has warned that services returning to normal on Wednesday will depend on the damage that the… [+6363 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "What are clouds made of? How do clouds form? The 10 major types explained.",
+            "description": "Is your weather app predicting clouds? Here's a list of the 10 main types and what they mean.",
+            "url": "https://www.usatoday.com/story/news/weather/2022/07/17/cloud-types-explained/7829401001/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/d1c3d00504257ad9889841ef98c97580921cda46/c=22-108-1188-768/local/-/media/USATODAY/USATODAY/2014/07/11/1405101145000-reader-fazel-arizona-desert2.jpg?auto=webp&format=pjpg&width=1200",
+            "publishedAt": "2022-07-18T06:14:34+00:00",
+            "content": "Is your weather app predicting clouds? No need to pull out that umbrella just yet. Not all cloudy days are the same, or, not all clouds are the same to be exact. There are a number of distinguishing … [+5439 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Lamiat Sabin",
+            "title": "UK weather - live: Trains cancelled and people urged to stay home as 42C heat forecast",
+            "description": "Reduced services will be in place, and trains will travel slower to reduce risk of tracks buckling",
+            "url": "http://www.independent.co.uk/climate-change/met-office-weather-warnings-heatwave-uk-schools-offices-b2125342.html",
+            "urlToImage": "https://static.independent.co.uk/2022/07/15/15/SEI114753368.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-07-18T04:21:33Z",
+            "content": "People are being advised not to travel on public transport unless absolutely necessary as services will be reduced due to the heatwave of up to 40°C forecast for the next few days.\r\nIt comes after th… [+8020 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Fires scorch France and Spain as temperature-related deaths soar in European heat wave",
+            "description": "The scorching temperatures have reached as far north as Britain, where its weather agency has issued its first-ever \"red warning\" of extreme heat.",
+            "url": "https://www.cbsnews.com/news/europe-heatwave-france-spain-wildfires/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/18/23ac0a10-e92c-417f-8387-d3f3e8989483/thumbnail/1200x630/3ac68bba3cdc06a5f539ab0be31b3e14/ap22198712806630.jpg",
+            "publishedAt": "2022-07-18T03:41:00+00:00",
+            "content": "Paris — Firefighters battled wildfires raging out of control in Spain and France, including one whose flames reached two popular Atlantic beaches on Sunday, as Europe wilted under an unusually extrem… [+6344 chars]"
+        }
+    ]
+}
